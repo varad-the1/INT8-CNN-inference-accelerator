@@ -217,3 +217,5 @@ The shipped bitstreams and reports are copied to bitstreams/ and reports/.)
 ## Demo video
 
 `demo/` contains the demonstration video (drawing digits in the PC app with the FPGA and PC answers side by side).
+
+Also on YouTube: https://youtube.com/shorts/LEIRXNiKFF4
